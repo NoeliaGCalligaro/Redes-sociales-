@@ -44,7 +44,7 @@ Analizar cómo el uso de diferentes plataformas de redes sociales influye en:
 - Heatmaps con etiquetas en español y estilo profesional.
 
 ### 5. Informe Final
-- Documento Word exportable con explicaciones de todos los gráficos y hallazgos clave.
+- Documento pdf exportable con explicaciones de todos los gráficos y hallazgos clave.
 - Recomendaciones estratégicas basadas en evidencia.
 
 ---
@@ -60,13 +60,13 @@ Analizar cómo el uso de diferentes plataformas de redes sociales influye en:
 
 ## 📑 Archivos Clave
 
-- `INFORME_FINAL_ADICCION_REDES.docx` – Informe profesional con resultados y conclusiones.
+- `Reporte.pdf` – Informe profesional con resultados y conclusiones.
 - `Students_Social_Media_Transformed.xlsx` – Dataset listo para análisis o visualización en Power BI.
 - `notebooks/Students_Social_Media_adicctions.ipynb` – Código fuente del análisis completo.
 
 ---
 
-## 🤝 Colaboradores y Licencia
+## 🤝 Autores
 
 Este proyecto es de libre uso con fines educativos o investigativos.  
 Autor original: **Noelia Calligaro**  
