@@ -43,9 +43,17 @@ Analizar cómo el uso de diferentes plataformas de redes sociales influye en:
 - Matriz de correlación completa.
 - Heatmaps con etiquetas en español y estilo profesional.
 
-### 5. Informe Final
-- Documento pdf exportable con explicaciones de todos los gráficos y hallazgos clave.
-- Recomendaciones estratégicas basadas en evidencia.
+### 5. Dashboard en Power BI
+Se construyó un dashboard interactivo con dos páginas que resumen y visualizan los datos clave del proyecto:
+
+#### Página 1 – Visión General:
+- Indicadores principales: total de estudiantes, horas promedio de sueño y uso diario de redes, % de alta adicción, etc.
+- Gráficos por género, plataforma más utilizada y relación entre sueño, salud mental y adicción.
+
+#### Página 2 – Análisis Detallado:
+- Comparaciones entre género, adicción, salud mental y sueño.
+- Distribuciones cruzadas por estado de relación.
+- Análisis de correlación entre variables y plataformas usadas.
 
 ---
 
@@ -61,10 +69,12 @@ Analizar cómo el uso de diferentes plataformas de redes sociales influye en:
 ## 📑 Archivos Clave
 
 - `Reporte.pdf` – Informe profesional con resultados y conclusiones.
-- `Students_Social_Media_Transformed.xlsx` – Dataset listo para análisis o visualización en Power BI.
-- `notebooks/Students_Social_Media_adicctions.ipynb` – Código fuente del análisis completo.
+- `data/Students_Social_Media_Transformed.xlsx` – Dataset listo para análisis o visualización en Power BI.
+- `Students_Social_Media_adicctions.ipynb` – Código fuente del análisis completo.
+- `Redes Sociales.pbix` – Archivo con el dashboard desarrollado en Power BI (si se comparte).
 
----
+
+
 
 ## 🤝 Autores
 
@@ -72,8 +82,3 @@ Este proyecto es de libre uso con fines educativos o investigativos.
 Autor original: **Noelia Calligaro**  
 
 
----
-
-## 🚀 Próximos Pasos
-
-- Desarrollar una versión interactiva en Power BI.
